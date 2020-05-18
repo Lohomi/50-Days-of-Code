@@ -7,3 +7,9 @@
 2- https://codeforces.com/contest/1354/problem/A
 
 3- https://codeforces.com/contest/1354/problem/B
+## 18th May
+1- https://practice.geeksforgeeks.org/problems/ugly-numbers/0
+
+2- https://practice.geeksforgeeks.org/problems/nth-fibonacci-number/0
+
+3- 
