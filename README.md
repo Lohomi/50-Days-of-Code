@@ -14,7 +14,7 @@
 
 3- https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/564/
 ## 19th May
-1- 
+1- https://codeforces.com/contest/205/problem/B
 
 2-
 
