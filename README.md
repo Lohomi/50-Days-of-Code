@@ -24,4 +24,6 @@
 
 5- https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/559/
 
+6- Find Permutation Coefficient (use DP, although it takes O(n*k)).
+
 
