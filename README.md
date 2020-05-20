@@ -16,6 +16,12 @@
 ## 19th May
 1- https://codeforces.com/contest/205/problem/B
 
-2-
+2- https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/578/
+
+3- https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/549/
+
+4- https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/674/
+
+5- https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/559/
 
 
