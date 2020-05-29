@@ -32,4 +32,6 @@
 
 { Lab Tests/ Intern work took over me }
 ## 24th May
-> https://codeforces.com/contest/1360 - Problems A-D
+1- https://codeforces.com/contest/1360 - Problems A-D
+## 25th May
+1- https://www.interviewbit.com/problems/add-one-to-number/
