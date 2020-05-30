@@ -35,3 +35,9 @@
 1- https://codeforces.com/contest/1360 - Problems A-D
 ## 25th May
 1- https://www.interviewbit.com/problems/add-one-to-number/
+## 29th May
+1- https://www.interviewbit.com/problems/maximum-absolute-difference/
+## 30th May
+1- #https://www.codechef.com/LTIME84B/problems/LOSTWKND
+2- #https://www.codechef.com/LTIME84B/problems/WWALK
+
