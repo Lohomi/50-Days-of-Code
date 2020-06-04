@@ -38,6 +38,16 @@
 ## 29th May
 1- https://www.interviewbit.com/problems/maximum-absolute-difference/
 ## 30th May
-1- #https://www.codechef.com/LTIME84B/problems/LOSTWKND
-2- #https://www.codechef.com/LTIME84B/problems/WWALK
+1- https://www.codechef.com/LTIME84B/problems/LOSTWKND
+
+2- https://www.codechef.com/LTIME84B/problems/WWALK
+## 31st May
+1- https://www.interviewbit.com/problems/fizzbuzz/
+
+2- https://www.interviewbit.com/problems/trailing-zeros-in-factorial/
+## 1st June
+1- https://www.interviewbit.com/problems/sum-of-pairwise-hamming-distance/
+## 2nd June
+1- https://www.interviewbit.com/problems/repeat-and-missing-number-array/
+
 
